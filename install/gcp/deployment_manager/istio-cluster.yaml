@@ -16,5 +16,5 @@ resources:
     enableGrafana: true
     enableZipkin: true
     enableServiceGraph: true
-    enableBookInfoSample: true
+    enableBookInfoSample: false
     installIstioRelease: 0.6.0
